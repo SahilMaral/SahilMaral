@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Dot Net Framework<br>👯 I’m looking to collaborate on Websites Projects<br>🤝 I’m looking for help with Java<br>🌱 I’m currently learning Android Development in Flutter<br>💬 Ask me about Database of MySQL<br>⚡ Fun fact I am pursing BCA
+🔭 I’m currently working on Dot Net Framework<br>👯 I’m looking to collaborate on Websites Projects<br>🤝 I’m looking for help with Java<br>🌱 I’m currently learning Android Development in Flutter<br>💬 Ask me about Database<br>⚡ Fun fact I am pursing BCA
 
 
 # 💻 Techinical Skill:
